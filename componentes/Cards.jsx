@@ -5,7 +5,7 @@ import Card from './Card';
 const data = [
   {
     lang: "YouTube Video", 
-    url: "https://www.youtube.com/embed/JS6uhdQJo4A", 
+    url: "https://youtu.be/JS6uhdQJo4A?si=uXxYUeYV084njjBJ", 
     fcolor: "#FF0000", 
     scolor: "#FF9900"
   }
